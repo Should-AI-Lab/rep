@@ -1,4 +1,4 @@
-# GRID: High-Quality Video Generation Model
+
 
 ![Portrait video comparison](portrait_16frame_A_woman_with_glasses_wearing_a_white_t-shirt_sits_at_a_wooden_desk._An_open_notebook_and_calculator_lie_before_her._She_examines_the_document_then_picks_up_a_pen.gif)
 
